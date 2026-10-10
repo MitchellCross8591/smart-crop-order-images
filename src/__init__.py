@@ -1,0 +1,1 @@
+"""Storefront crop example package."""
